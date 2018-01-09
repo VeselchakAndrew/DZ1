@@ -33,11 +33,27 @@ body {
     width: 412px;
     height: 135px;
     margin: 0 auto;
-    padding: 0 13px;
+    padding: 10px 13px;
     box-sizing: border-box;
 }
 
 h1 {
     text-align: center;
     font-size: 22px;
+}
+
+p,
+li {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+ul {
+    padding: 10px 20px;
+    box-sizing: border-box;
 }
